@@ -59,8 +59,20 @@ textarea {
     padding: 5px;
     border-radius: 5px;
     border: 1px solid transparent;
+    resize: none;
 }
 
 footer {
     background-color: aqua;
+}
+
+@media (max-width: 700px) {
+    a {
+        font-size: 12px;
+    }
+
+    textarea {
+        width: 380px;
+        height: 200px;
+    }
 }
