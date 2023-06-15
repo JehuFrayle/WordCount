@@ -44,6 +44,7 @@ button {
     padding: 5px;
     border: 1px solid transparent;
     transition-duration: 0.3s;
+    color: black;
 }
 
 button:hover {
@@ -68,11 +69,11 @@ footer {
 
 @media (max-width: 700px) {
     a {
-        font-size: 12px;
+        font-size: 9px;
     }
 
     textarea {
-        width: 380px;
+        width: 330px;
         height: 200px;
     }
 }
