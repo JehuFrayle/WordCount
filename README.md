@@ -1,4 +1,4 @@
-# <a href="https://cuentapalabras.netlify.app/index.html">Word Counter</a>
+# <a href="https://cuentapalabras.netlify.app">Word Counter</a>
 
 Un contador de palabras, si deseas ayudarme puedes dejar tu Pull Request :)   ||
 A word counter, if you want to help me you can leave your Pull Request :)
